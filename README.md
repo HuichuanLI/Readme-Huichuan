@@ -11,7 +11,6 @@
 |---|
 |[CSDN][csdn]
 |[知 乎][zhihu]
-|[微 博][weibo]
 
 ### 技能树
 
@@ -38,10 +37,7 @@
 * 电影（好莱坞剧情片、超级英雄）
 
 *******************
-[csdn]:http://blog.csdn.net/guodongxiaren
-[zhihu]:https://www.zhihu.com/people/JellyWong
-[weibo]:http://weibo.com/linpiaochen
-[qcounter]:http://download.csdn.net/detail/guodongxiaren/7360183
-[QCounter]:https://github.com/guodongxiaren/QCounter
-[mama]:http://as.baidu.com/a/item?docid=6116552&pre=web_am_se
-[dishu]:https://github.com/guodongxiaren/DiShu
+[csdn]:http://blog.csdn.net
+[zhihu]:https://www.zhihu.com/people
+
+
